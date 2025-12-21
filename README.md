@@ -1,5 +1,3 @@
-# CreativeDialogue
-
 # CreativeDialogue Dataset
 
 A multi-level dataset for studying collaborative creative problem-solving, combining individual characteristics, discourse processes, and creativity outcomes.
