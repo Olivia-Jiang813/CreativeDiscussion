@@ -8,7 +8,7 @@ A dataset for studying collaborative creative problem-solving, combining individ
 |--------|-------|
 | Discussions | 309 |
 | Teams | 103 |
-| Participants | 420 |
+| Participants | 421 |
 | Utterances | 36,223 |
 | Team sizes | 3-person and 6-person |
 | Tasks | 6 creative problem-solving scenarios |
