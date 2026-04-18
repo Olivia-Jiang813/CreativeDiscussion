@@ -85,6 +85,19 @@ Discussion-level metadata and outcomes (309 rows).
 | PS5 | Employee Attrition | Stop voluntary employee attrition |
 | PS6 | Shower Singing | Encourage healthy shower singing |
 
+
+## License
+This dataset is released under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). 
+It may be used for non-commercial research purposes with attribution.
+
+## Anonymization
+All personally identifiable information has been removed prior to release:
+- Participant names replaced with numeric IDs (`participant_id`)
+- Speaker identities replaced with within-team indices (`speaker_id`: 1 to n_members)
+- Free-text responses (utterances, final ideas) retained but not linked to 
+  identifiable individuals
+- Raw audio recordings are not released as they contain identifiable voice data
+
 ## Data Linkage
 
 ```
